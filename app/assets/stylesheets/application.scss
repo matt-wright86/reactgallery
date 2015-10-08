@@ -1,0 +1,16 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.dzone{
+  max-width: 550px;
+  height: 200px;
+  background: #cdc;
+  border: 1px solid #777;
+  list-style: none;
+  margin: 0px;
+  padding: 2px;
+}
+
+img{
+  width: 20%;
+}
