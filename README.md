@@ -1,3 +1,3 @@
 # reactgallery
 
-http://i.imgur.com/ZfBkUzU.png
+![alt tag](http://i.imgur.com/ZfBkUzU.png)
